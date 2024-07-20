@@ -6,5 +6,5 @@ Thanks to the ever more aggressive and both unsustainable and probably license v
 This comes at the added benefit of also having IPv6 (which GitHub *still doesn't after decades*).
 So unless you're stuck on *Legacy IP™*, why not go and check out all the projects I've removed from GitHub?
 
-https://git.shell.bsocat.net
+# Self Hosted Git: https://git.shell.bsocat.net
 
